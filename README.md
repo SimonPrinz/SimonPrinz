@@ -17,9 +17,14 @@
 [![Xing](https://img.shields.io/badge/Xing-Simon%20Prinz-blue?style=flat-square&logo=xing)][Xing]
 [![Email](https://img.shields.io/badge/Email-hello@simonprinz.me-blue?style=flat-square&logo=gmail)][Email]
 
+### Personal Archive
+
+My personal Archive can be found [Here][Archive].
+
 [Website]: https://simonprinz.me
 [Twitter]: https://twitter.com/simonprinz
 [Instagram]: https://instagram.com/ciao.simon/
 [LinkedIn]: https://linkedin.com/in/simon-prinz/
 [Xing]: https://xing.com/profile/Simon_Prinz3
 [Email]: mailto:hello@simonprinz.me
+[Archive]: https://github.com/SimonPrinzArchive
