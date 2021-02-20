@@ -10,16 +10,16 @@
 
 ### 🤝🏻 Connect with Me
 
-[![Website](https://img.shields.io/badge/Website-simonprinz.me-blue?style=flat-square&logo=google-chrome)][Website]
+[![Website](https://img.shields.io/badge/Website-simonpri.nz-blue?style=flat-square&logo=google-chrome)][Website]
 [![Twiiter](https://img.shields.io/badge/Twitter-@SimonPrinz-blue?style=flat-square&logo=twitter)][Twitter]
 [![Instagram](https://img.shields.io/badge/Instagram-ciao.simon-blue?style=flat-square&logo=instagram)][Instagram]
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Simon%20Prinz-blue?style=flat-square&logo=linkedin)][LinkedIn]
 [![Xing](https://img.shields.io/badge/Xing-Simon%20Prinz-blue?style=flat-square&logo=xing)][Xing]
-[![Email](https://img.shields.io/badge/Email-hello@simonprinz.me-blue?style=flat-square&logo=gmail)][Email]
+[![Email](https://img.shields.io/badge/Email-hey@simonpri.nz-blue?style=flat-square&logo=gmail)][Email]
 
-[Website]: https://simonprinz.me
+[Website]: https://simonpri.nz
 [Twitter]: https://twitter.com/simonprinz
 [Instagram]: https://instagram.com/ciao.simon/
 [LinkedIn]: https://linkedin.com/in/simon-prinz/
 [Xing]: https://xing.com/profile/Simon_Prinz3
-[Email]: mailto:hello@simonprinz.me
+[Email]: mailto:hey@simonpri.nz
