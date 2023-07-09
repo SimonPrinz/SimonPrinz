@@ -48,7 +48,7 @@ Welcome to my GitHub profile! I'm passionate about programming and creating inno
 ![Mathematica](https://img.shields.io/badge/Mathematica-1-dd1100?style=flat-square&logo=Mathematica)
 ![SCSS](https://img.shields.io/badge/SCSS-1-c6538c?style=flat-square&logo=SCSS)
 ![Smalltalk](https://img.shields.io/badge/Smalltalk-1-596706?style=flat-square&logo=Smalltalk)  
-<sup>According to GitHub (sum of the top 3 languages in all my repositories, public and private)</sup>
+<sup>According to GitHub (sum of the top 3 languages in all my repositories, public and private; will publish the code to generate this soon™️)</sup>
 
 ## 💬 Get in Touch
 
