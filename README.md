@@ -16,6 +16,7 @@ Welcome to my GitHub profile! I'm passionate about programming and creating inno
 
 ## 🚀 Top Programming Languages
 
+<!-- START_TOP_LANGUAGES -->
 ![JavaScript](https://img.shields.io/badge/JavaScript-46-f1e05a?style=flat-square&logo=JavaScript)
 ![PHP](https://img.shields.io/badge/PHP-42-4F5D95?style=flat-square&logo=PHP)
 ![C#](https://img.shields.io/badge/C%23-39-178600?style=flat-square&logo=C%23)
@@ -47,7 +48,8 @@ Welcome to my GitHub profile! I'm passionate about programming and creating inno
 ![Pascal](https://img.shields.io/badge/Pascal-1-E3F171?style=flat-square&logo=Pascal)
 ![Mathematica](https://img.shields.io/badge/Mathematica-1-dd1100?style=flat-square&logo=Mathematica)
 ![SCSS](https://img.shields.io/badge/SCSS-1-c6538c?style=flat-square&logo=SCSS)
-![Smalltalk](https://img.shields.io/badge/Smalltalk-1-596706?style=flat-square&logo=Smalltalk)  
+![Smalltalk](https://img.shields.io/badge/Smalltalk-1-596706?style=flat-square&logo=Smalltalk)
+<!-- END_TOP_LANGUAGES -->
 <sup>According to GitHub (sum of the top 3 languages in all my repositories, public and private; will publish the code to generate this soon™️)</sup>
 
 ## 💬 Get in Touch
